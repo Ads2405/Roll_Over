@@ -1,3 +1,7 @@
+
+A CRUD application with reactjs as frontend and MySQL as backend. A premier league management system that facilates the CRUD operations on different players , matches , venues etc.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
